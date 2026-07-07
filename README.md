@@ -2,7 +2,8 @@
 A multimodal machine learning web app that predicts diseases from patient symptoms and classifies unstructured clinical notes
 
 KD-Engine: Multimodal Clinical AI
-Live Demo: [Insert URL Here]
+
+Live Demo: https://kd-engine-multimodal-ai.streamlit.app
 
 Project Overview:
 The KD-Engine is a multimodal machine learning application designed to process both structured and unstructured clinical data. By integrating two specialized AI engines, this tool assists in diagnostic workflows by providing real-time predictions and confidence analysis.
